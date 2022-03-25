@@ -24,7 +24,7 @@ Resource Scarcity
 
 Pearce, D. W., G. D. Atkinson, and W. R. Dubourg. "The Economics of Sustainable Development." _Annu Rev Energy Environ_ 19 (1994): 457-74.
 
-Pezzey, John C. V., and Michael A. Toman. "The Economics of Sustainability: A Review of Journal Articles." Resources for the Future Discussion Paper 02-03 (January 2002). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://media.rff.org/archive/files/sharepoint/WorkImages/Download/RFF-DP-02-03.pdf))
+Pezzey, John C. V., and Michael A. Toman. "The Economics of Sustainability: A Review of Journal Articles." Resources for the Future Discussion Paper 02-03 (January 2002). ([PDF](https://media.rff.org/archive/files/sharepoint/WorkImages/Download/RFF-DP-02-03.pdf))
 
 Tilton, John. "Exhaustible Resources and Sustainable Development: Two Paradigms." _Resources Policy_ 22, nos. 1/2 (1996): 91-97.
 
@@ -41,11 +41,11 @@ Life Cycle Assessment
 
 Bauman, H., and A. Tillman. _Hitch Hiker's Guide To LCA: An Orientation in Life Cycle Assessment Methodology and Application_. Lund, Sweden: Studentlitteratur AB, 2004, chapters 1, 3, 4, and 5. ISBN: 9789144023649.
 
-PRé Consultants bv. _SimaPro 6: Introduction to LCA with SimaPro_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.pre-sustainability.com/legacy/download/SimaPro8IntroductionToLCA.pdf))
+PRé Consultants bv. _SimaPro 6: Introduction to LCA with SimaPro_. ([PDF](https://www.pre-sustainability.com/legacy/download/SimaPro8IntroductionToLCA.pdf))
 
 United Nations Environment Program. _Life Cycle Assessment: What it is and How to do it_ . 1996.  
-Part 1: What it is. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF - 7.0 MB](http://www.unepie.org/pc/sustain/reports/lcini/Part%20I%20LCA%20What%20it%20is.pdf))  
-Part 2: How to do it. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 8.3 MB](http://www.unepie.org/pc/sustain/reports/lcini/Part%20II&III%20LCA%20How%20to%20do%20it.pdf))
+Part 1: What it is. ( [PDF - 7.0 MB](http://www.unepie.org/pc/sustain/reports/lcini/Part%20I%20LCA%20What%20it%20is.pdf))  
+Part 2: How to do it. ([PDF - 8.3 MB](http://www.unepie.org/pc/sustain/reports/lcini/Part%20II&III%20LCA%20How%20to%20do%20it.pdf))
 
 Weidema, Bo. "Avoiding Co-Product Allocation in Life-Cycle Assessment." _Journal of Industrial Ecology_ 4, no. 3 (2001): 11-33.
 
